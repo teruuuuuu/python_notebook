@@ -25,3 +25,4 @@ npm-debug.log
 *.jpg
 *.txt
 *.toc
+.ipynb_checkpoints
