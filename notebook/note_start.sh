@@ -1,3 +1,3 @@
 #!/bin/bash
 cwd=`dirname "${0}"`
-jupyter notebook $cwd
+~/.pyenv/versions/anaconda3-4.4.0/bin/jupyter-notebook $cwd
